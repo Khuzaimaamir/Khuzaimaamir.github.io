@@ -1,0 +1,32 @@
+body {
+    color: #000000;
+    font-family: 'Oxygen', sans-serif;
+}
+.navbar {
+    border: 0;
+    border-radius: 0;
+}
+    .bg-light {
+        background-color: #747475 !important;
+      }
+    .text-center{
+        padding-bottom: 18px;
+    }
+.navbar-brand{
+    color: #090909;
+    font-size: 30px;
+    margin-left: -168px;
+    font-weight: bold;
+}
+h2 {
+    margin-top: 20px;
+}
+section {
+    border: 1px solid #000;
+    margin-top: 7%;
+    margin-bottom: 3%;
+    padding: 5%;
+    background-color: #626263 !important;
+    border-radius: 30px;
+    text-align: center;
+}
